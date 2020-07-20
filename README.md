@@ -45,16 +45,16 @@
 ---
 <h3 align="center">Let's connect and chat! :incoming_envelope:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mudassir-321462139/">
+  <a href="https://www.linkedin.com/in/mudassir-321462139/" target="_blank">
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://t.me/ukieTux">
+  <a href="https://t.me/ukieTux" target="_blank">
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/telegram.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://twitter.com/ukieTux">
+  <a href="https://twitter.com/ukieTux" target="_blank">
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/twitter.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=628114441069&text=&source=&data=&app_absent=">
+  <a href="https://api.whatsapp.com/send?phone=628114441069&text=&source=&data=&app_absent=" target="_blank">
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/whatsapp.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
 </p>
