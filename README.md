@@ -26,8 +26,6 @@
 
 ---
 
----
-
 <h3 align="center">Development Tools 🛠</h3>
 
 
@@ -42,35 +40,33 @@
 
 ---
 
----
 <h3 align="center">Let's connect and chat! :incoming_envelope:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mudassir-321462139/" target="_blank">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" alt="npm" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://t.me/ukieTux" target="_blank">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/telegram.svg" alt="npm" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://twitter.com/ukieTux" target="_blank">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/twitter.svg" alt="npm" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://api.whatsapp.com/send?phone=628114441069&text=&source=&data=&app_absent=" target="_blank">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/whatsapp.svg" alt="npm" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
 ---
-<!--
-**ukieTux/ukieTux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Buy me coffee if you love my works ☕️</h3>
+<p align="center">
+  <a href="https://ko-fi.com/ukietux" target="_blank">
+    <img src="https://help.ko-fi.com/system/photos/3604/0095/9793/logo_circle.png" alt="ko-fi" style="vertical-align:top; margin:8px" height="40">
+  </a>
+  <a href="https://www.buymeacoffee.com/ukieTux" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="buymeacoffe" style="vertical-align:top; margin:8px" height="40">
+  </a>
+  <a href="https://paypal.me/ukieTux" target="_blank">
+    <img src="https://blog.zoom.us/wp-content/uploads/2019/08/paypal.png" alt="paypal" style="vertical-align:top; margin:8px" height="40">
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
