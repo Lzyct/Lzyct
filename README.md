@@ -22,7 +22,7 @@ XML    0 secs          ░░░░░░░░░░░░░░░░░░░
 
 <p align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukieTux&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ukieTux&count_private=true&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukieTux&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ukieTux&count_private=true)
 
 </p>
 
@@ -84,4 +84,4 @@ XML    0 secs          ░░░░░░░░░░░░░░░░░░░
     <img src="https://blog.zoom.us/wp-content/uploads/2019/08/paypal.png" alt="paypal" style="vertical-align:top; margin:8px" height="40">
   </a>
 </p>
-
+<br><br>
