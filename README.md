@@ -4,7 +4,7 @@
   <samp>
     I'm Mudassir 👀
     <br><br>
-    🇮🇩 Remote worker, 💻 ⌜Code Geek ✖︎ Mobile Developer ✖︎ Tech Enthusiast⌟ 🔥
+    🇮🇩 Remote worker, ⌜Code Geek 👨‍💻 ✖︎  Mobile Developer 📱 ✖︎ Tech Enthusiast 🔥⌟
   </samp>
 </p>
 <br><br>
