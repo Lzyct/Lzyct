@@ -7,6 +7,8 @@
     🇮🇩 Remote worker, 💻 ⌜Code Geek ✖︎ Mobile Developer ✖︎ Tech Enthusiast⌟ 🔥
   </samp>
 </p>
+<br><br>
+
 
 <!--START_SECTION:waka-->
 ```text
@@ -18,14 +20,17 @@ XML    0 secs          ░░░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ukieTux&show_icons=true)
+<p align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukieTux&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ukieTux&count_private=true&hide=issues)
+
+</p>
 
 ---
 
 <h3 align="center">Languages and Frameworks 📖</h3>
 
 <p align="center">
-
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:4px">
