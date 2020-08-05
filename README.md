@@ -9,6 +9,13 @@
 </p>
 
 <!--START_SECTION:waka-->
+```text
+Dart   13 hrs 36 mins  ███████████████████████░░   92.64 % 
+YAML   59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Bash   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Java   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+```
 <!--END_SECTION:waka-->
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ukieTux&show_icons=true)
