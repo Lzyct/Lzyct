@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
 ```
 <!--END_SECTION:waka-->
 
