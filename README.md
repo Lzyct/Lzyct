@@ -1,3 +1,6 @@
+<img src="https://komarev.com/ghpvc/?username=ukieTux&color=blue&style=flat-square" align="right" />
+<br/>
+<br/>
 <p align="center">
   <img src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2689&q=80" width="90%">
   <br><br>
