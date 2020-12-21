@@ -1,18 +1,17 @@
-<img src="https://komarev.com/ghpvc/?username=ukieTux&color=blue&style=flat-square" align="right" />
+
+<img src="https://komarev.com/ghpvc/?username=ukieTux&color=ff69b4&style=flat-square" align="right" />
 <br/>
 <br/>
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2689&q=80" width="90%">
-  <br><br>
   <samp>
-    I'm Mudassir 👀
+   Hello 👋,  I'm Mudassir 😎
     <br><br>
-    ⌜Remote worker 💼 ✖︎ Code Geek 👨‍💻 ✖︎  Mobile Developer 📱 ✖︎ Tech Enthusiast 🔥⌟
+    ⌜Remote worker 💼 ✖︎ Code Geek 👨‍💻 ✖︎  Mobile Developer Expert 📱 ✖︎ Tech Enthusiast 🔥⌟
   </samp>
-</p>
 <br><br>
 
 📊 Weekly Development Breakdown
+
 <!--START_SECTION:waka-->
 ```text
 Dart     19 hrs 49 mins  █████████████████████▒░░░   85.09 % 
@@ -23,24 +22,22 @@ YAML     26 mins         ▒░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<p align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukieTux&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ukieTux&count_private=true)
 
-</p>
+  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ukieTux&count_private=true&show_icons=true)
+
 
 ---
 
 <h3 align="center">Languages and Frameworks 📖</h3>
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <!-- For more icons please follow  https://github.com/ukieTux/ColoredBadges -->
 
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:4px">
-  <img src="https://www.nicepng.com/png/detail/271-2711435_android-apps-development-by-cloudtrains-technologies-kotlin-logo.png" alt="kotlin" style="vertical-align:top; margin:4px" width="15%">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:4px" height=24>
+   <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/languages/kotlin.svg" alt="kotlin" style="vertical-align:top; margin:4px" height=24>
+  <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px" height=24>
+  <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px" height=24>
 
 ---
 
@@ -49,28 +46,29 @@ YAML     26 mins         ▒░░░░░░░░░░░░░░░░░�
 
 <p align="center">
 
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <!-- For more icons please follow  https://github.com/ukieTux/ColoredBadges -->
 
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" alt="bash" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/xcode.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top;margin:4px" height=24>
+  <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" height=24>
+  <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:4px" height=24>
+   <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/tools/xcode.svg" alt="xcode" style="vertical-align:top; margin:4px" height=24>
+    <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/tools/vim.svg" alt="vim" style="vertical-align:top; margin:4px" height=24>
 
 ---
 
 <h3 align="center">Let's connect and chat! :incoming_envelope:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mudassir-321462139/" target="_blank">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px" height=24>
   </a>
   <a href="https://t.me/ukieTux" target="_blank">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:4px" height=24>
   </a>
   <a href="https://twitter.com/ukieTux" target="_blank">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px" height=24>
   </a>
   <a href="https://api.whatsapp.com/send?phone=628114441069&text=&source=&data=&app_absent=" target="_blank">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:4px" height=24>
   </a>
 </p>
 
