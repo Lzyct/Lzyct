@@ -16,13 +16,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 December, 2020 - 23 December, 2020
+Week: 17 December, 2020 - 24 December, 2020
 
-Dart       5 hrs 10 mins   ██████████░░░░░░░░░░░░░░░   39.78 % 
-Kotlin     3 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-Java       1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-XML        1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Markdown   52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Kotlin     4 hrs 55 mins   █████████▓░░░░░░░░░░░░░░░   38.32 % 
+Dart       4 hrs 22 mins   ████████▓░░░░░░░░░░░░░░░░   34.02 % 
+Java       1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Markdown   40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+XML        37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 ```
 <!--END_SECTION:waka-->
 
