@@ -16,7 +16,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2020 - 02 January, 2021
+Week: 27 December, 2020 - 03 January, 2021
 
 Dart       12 hrs 14 mins  ████████████▒░░░░░░░░░░░░   49.02 % 
 Kotlin     9 hrs 59 mins   ██████████░░░░░░░░░░░░░░░   39.97 % 
