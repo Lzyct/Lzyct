@@ -16,13 +16,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2020 - 04 January, 2021
+Week: 29 December, 2020 - 05 January, 2021
 
-Dart       12 hrs 46 mins  ██████████████░░░░░░░░░░░   55.63 % 
-Kotlin     5 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.48 % 
-YAML       1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-XML        1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Markdown   44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Dart       15 hrs 54 mins  ████████████████░░░░░░░░░   64.05 % 
+Kotlin     4 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.60 % 
+YAML       1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+XML        1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Markdown   44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 ```
 <!--END_SECTION:waka-->
 
