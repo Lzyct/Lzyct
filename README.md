@@ -40,6 +40,7 @@ Groovy   30 mins         ▒░░░░░░░░░░░░░░░░░�
 
   <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:4px" height=28>
    <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/languages/kotlin.svg" alt="kotlin" style="vertical-align:top; margin:4px" height=28>
+   <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/languages/swift.svg" alt="kotlin" style="vertical-align:top; margin:4px" height=28>
   <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px" height=28>
   <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px" height=28>
 
