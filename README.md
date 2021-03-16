@@ -38,11 +38,12 @@ XML     3 mins          ░░░░░░░░░░░░░░░░░░�
 <p align="center">
   <!-- For more icons please follow  https://github.com/ukieTux/ColoredBadges -->
 
-  <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:4px" height=28>
-   <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/languages/kotlin.svg" alt="kotlin" style="vertical-align:top; margin:4px" height=28>
-   <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/languages/swift.svg" alt="kotlin" style="vertical-align:top; margin:4px" height=28>
-  <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px" height=28>
-  <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px" height=28>
+  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/dart.svg" alt="dart" style="vertical-align:top; margin:4px" height=28>
+   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/kotlin.svg" alt="kotlin" style="vertical-align:top; margin:4px" height=28>
+   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/swift.svg" alt="kotlin" style="vertical-align:top; margin:4px" height=28>
+   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/typescript.svg" alt="kotlin" style="vertical-align:top; margin:4px" height=28>
+  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px" height=28>
+  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/react.svg" alt="react" style="vertical-align:top; margin:4px" height=28>
 
 ---
 
@@ -53,27 +54,29 @@ XML     3 mins          ░░░░░░░░░░░░░░░░░░�
 
   <!-- For more icons please follow  https://github.com/ukieTux/ColoredBadges -->
 
-  <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top;margin:4px" height=28>
-  <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" height=28>
-  <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:4px" height=28>
-   <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/tools/xcode.svg" alt="xcode" style="vertical-align:top; margin:4px" height=28>
-    <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/dev/tools/vim.svg" alt="vim" style="vertical-align:top; margin:4px" height=28>
+  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/npm.svg" alt="npm" style="vertical-align:top;margin:4px" height=28>
+  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" height=28>
+  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:4px" height=28>
+   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/xcode.svg" alt="xcode" style="vertical-align:top; margin:4px" height=28>
+    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/vim.svg" alt="vim" style="vertical-align:top; margin:4px" height=28>
+    
+   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/mac.svg" alt="mbp2018" style="vertical-align:top; margin:4px" height=28>
 
 ---
 
 <h3 align="center">Let's connect and chat! :incoming_envelope:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mudassir-321462139/" target="_blank">
-    <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px" height=28>
+    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px" height=28>
   </a>
   <a href="https://t.me/ukieTux" target="_blank">
-    <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:4px" height=28>
+    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/telegram.svg" alt="telegram" style="vertical-align:top; margin:4px" height=28>
   </a>
   <a href="https://twitter.com/ukieTux" target="_blank">
-    <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px" height=28>
+    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px" height=28>
   </a>
   <a href="https://api.whatsapp.com/send?phone=628114441069&text=&source=&data=&app_absent=" target="_blank">
-    <img src="https://github.com/ukieTux/ColoredBadges/blob/master/svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:4px" height=28>
+    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:4px" height=28>
   </a>
 </p>
 
