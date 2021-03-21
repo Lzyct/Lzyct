@@ -56,7 +56,7 @@ XML     4 mins          ░░░░░░░░░░░░░░░░░░�
 
   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/npm.svg" alt="npm" style="vertical-align:top;margin:4px" height=28>
   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" height=28>
-  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:4px" height=28>
+  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/jetbrains_intellij.svg" alt="Intellij CE" style="vertical-align:top; margin:4px" height=28>
    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/xcode.svg" alt="xcode" style="vertical-align:top; margin:4px" height=28>
     <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/vim.svg" alt="vim" style="vertical-align:top; margin:4px" height=28>
     
