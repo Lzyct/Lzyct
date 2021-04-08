@@ -16,13 +16,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 March, 2021 - 06 April, 2021
+Week: 31 March, 2021 - 07 April, 2021
 
-Dart         5 hrs 46 mins   ███████████▒░░░░░░░░░░░░░   45.35 % 
-Kotlin       4 hrs 56 mins   █████████▓░░░░░░░░░░░░░░░   38.75 % 
-Properties   37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Git Config   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-YAML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Dart         9 hrs 36 mins   ███████████████▒░░░░░░░░░   61.90 % 
+Kotlin       3 hrs 58 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.59 % 
+YAML         1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Properties   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 <!--END_SECTION:waka-->
 
