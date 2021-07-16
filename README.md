@@ -92,5 +92,8 @@ XML     16 mins         ▒░░░░░░░░░░░░░░░░░�
   <a href="https://paypal.me/ukieTux" target="_blank">
     <img src="https://blog.zoom.us/wp-content/uploads/2019/08/paypal.png" alt="paypal" style="vertical-align:top; margin:8px" height="36">
   </a>
+  <a href="https://saweria.co/codelogs" target="_blank">
+    <img src="https://companies-house-public.s3.amazonaws.com/ip-images/285592/8592bb35-98a9-4330-8c74-9d62931a5e66.jpg" alt="saweria" style="vertical-align:top; margin:8px" height="36">
+  </a>
 </p>
 <br><br>
