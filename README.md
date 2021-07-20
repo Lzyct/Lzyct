@@ -25,8 +25,7 @@ Markdown   41 mins         ▓░░░░░░░░░░░░░░░░�
 JSON       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 <!--END_SECTION:waka-->
-
-
+  
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ukieTux&count_private=true&show_icons=true)
 
@@ -79,6 +78,10 @@ JSON       19 mins         ▒░░░░░░░░░░░░░░░░�
     <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:4px" height=28>
   </a>
 </p>
+
+---
+
+<img src="https://activity-graph.herokuapp.com/graph?username=ukieTux&theme=react-dark#1" width="100%">
 
 ---
 <h3 align="center">Buy me coffee if you love my works ☕️</h3>
