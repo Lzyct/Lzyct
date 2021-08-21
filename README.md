@@ -15,17 +15,7 @@
 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-```text
-Week: 14 August, 2021 - 20 August, 2021
-
-Dart       20 hrs 49 mins  █████████████████████░░░░   83.84 % 
-Other      1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Markdown   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-YAML       31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Groovy     27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-```
 <!--END_SECTION:waka-->
-  
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ukieTux&count_private=true&show_icons=true)
 
