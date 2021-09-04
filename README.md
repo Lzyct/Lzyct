@@ -15,7 +15,7 @@
 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
 
 **I'm an Early 🐤** 
 
@@ -61,7 +61,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2021
+ Last Updated on 04/09/2021
 <!--END_SECTION:waka-->
   
   
