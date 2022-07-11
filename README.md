@@ -12,13 +12,9 @@
   </samp>
 <br><br>
 
-📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-  
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lzyct&count_private=true&show_icons=true)
 
 
 ---
