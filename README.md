@@ -91,19 +91,6 @@ Go                       4 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
----
-
-<h3 align="center">Languages and Frameworks 📖</h3>
-
-<p align="center">
-  <!-- For more icons please follow  https://github.com/ukieTux/ColoredBadges -->
-
-  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/dart.svg" alt="dart" style="vertical-align:top; margin:4px" height=28>
-   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/kotlin.svg" alt="kotlin" style="vertical-align:top; margin:4px" height=28>
-   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/swift.svg" alt="kotlin" style="vertical-align:top; margin:4px" height=28>
-   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/typescript.svg" alt="kotlin" style="vertical-align:top; margin:4px" height=28>
-  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px" height=28>
-  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/react.svg" alt="react" style="vertical-align:top; margin:4px" height=28>
 
 ---
 
@@ -139,10 +126,6 @@ Go                       4 repos             █░░░░░░░░░░�
     <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:4px" height=28>
   </a>
 </p>
-
----
-
-<img src="https://activity-graph.herokuapp.com/graph?username=Lzyct&theme=react-dark#1" width="100%">
 
 ---
 <h3 align="center">Buy me coffee if you love my works ☕️</h3>
