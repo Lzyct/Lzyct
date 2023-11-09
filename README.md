@@ -1,9 +1,10 @@
 <img 
-  src="https://github.com/Lzyct/Lzyct/assets/1531684/5f1457ad-9f5c-4ea2-9a5a-4f69d9d5654e" 
+  src="https://github.com/Lzyct/Lzyct/assets/1531684/5b2e172d-feb8-40de-9846-a70379b758fb" 
   style="margin-top:20px;margin-right:13px"
   align="left" 
   height="320px"
 />
+
 <p>
  👋 Hey there, I'm Mudassir!
 
