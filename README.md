@@ -1,9 +1,11 @@
+<a href="https://lazycatlabs.com/" target="_blank">
 <img 
-  src="https://github.com/Lzyct/Lzyct/assets/1531684/5b2e172d-feb8-40de-9846-a70379b758fb" 
+  src="https://github-production-user-asset-6210df.s3.amazonaws.com/1531684/281783264-5b2e172d-feb8-40de-9846-a70379b758fb.png" 
   style="margin-top:20px;margin-right:13px"
   align="left" 
   height="320px"
 />
+</a>
 
 <p>
  👋 Hey there, I'm Mudassir!
