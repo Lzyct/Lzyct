@@ -1,16 +1,39 @@
+<img 
+  src="https://github.com/Lzyct/Lzyct/assets/1531684/5f1457ad-9f5c-4ea2-9a5a-4f69d9d5654e" 
+  style="margin-top:20px;margin-right:13px"
+  align="left" 
+  height="320px"
+/>
+<p>
+ 👋 Hey there, I'm Mudassir!
 
+🚀 Mobile Developer | 5+ years of experience in Android Native and Flutter.
 
-<a href = "mailto: hey.mudassir@gmail.com">
-<img src="https://github.com/ukieTux/ukieTux/blob/master/open2work.svg"  height=28  /></a>
-<br/>
-<br/>
-<p align="center">
-  <samp>
-   Hello 👋,  I'm Mudassir 😎
-    <br><br>
-    ⌜Remote worker 💼 ✖︎ Code Geek 👨‍💻 ✖︎  Mobile Developer Expert 📱 ✖︎ Tech Enthusiast 🔥⌟
-  </samp>
-<br><br>
+💻 I specialize in creating robust and user-friendly mobile applications. My journey involves leading mobile teams and consistently delivering high-quality projects.
+
+🌱 Currently exploring 🦀 Rust to stay on the cutting edge of technology.
+
+🔗 Let's connect and discuss the exciting possibilities in mobile development!
+
+<br>
+
+<table style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
+    <tr>
+        <td>
+           <a href="https://www.linkedin.com/in/lzyct/" target="_blank">
+              <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px" height=24>
+          </a>
+        </td>
+        <td>
+           <a href = "https://www.upwork.com/freelancers/~01913209d41be922f1?viewMode=1">
+              <img src="https://img.shields.io/badge/UpWork-6FDA44?logo=Upwork&logoColor=white" height=24/>
+           </a>
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
 
 
 <!--START_SECTION:waka-->
@@ -89,45 +112,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 ---
-
-<h3 align="center">Development Tools 🛠</h3>
-
-
-<p align="center">
-
-  <!-- For more icons please follow  https://github.com/ukieTux/ColoredBadges -->
-
-  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/npm.svg" alt="npm" style="vertical-align:top;margin:4px" height=28>
-  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px" height=28>
-  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/jetbrains_intellij.svg" alt="Intellij CE" style="vertical-align:top; margin:4px" height=28>
-   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/xcode.svg" alt="xcode" style="vertical-align:top; margin:4px" height=28>
-    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/vim.svg" alt="vim" style="vertical-align:top; margin:4px" height=28>
-    
-   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/mac.svg" alt="mbp2018" style="vertical-align:top; margin:4px" height=28>
-
----
-
-<h3 align="center">Let's connect and chat! :incoming_envelope:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mudassir-321462139/" target="_blank">
-    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px" height=28>
-  </a>
-  <a href="https://t.me/ukieTux" target="_blank">
-    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/telegram.svg" alt="telegram" style="vertical-align:top; margin:4px" height=28>
-  </a>
-  <a href="https://twitter.com/ukieTux" target="_blank">
-    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px" height=28>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=628114441069&text=&source=&data=&app_absent=" target="_blank">
-    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:4px" height=28>
-  </a>
-</p>
-
----
-[![@lzyct's Holopin board](https://holopin.me/lzyct)](https://holopin.io/@lzyct)
-
----
-<h3 align="center">Buy me coffee if you love my works ☕️</h3>
+<h3 align="center">You can support me via</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/Lzyct" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="buymeacoffe" style="vertical-align:top; margin:8px" height="36">
