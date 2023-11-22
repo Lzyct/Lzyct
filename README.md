@@ -38,6 +38,8 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C437%20hrs%2055%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -105,7 +107,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2023 15:41:45 UTC
+ Last Updated on 22/11/2023 18:40:03 UTC
 <!--END_SECTION:waka-->
 
 
