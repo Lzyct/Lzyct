@@ -12,9 +12,13 @@
 
 🚀 Mobile Developer | 5+ years of experience in Android Native and Flutter.
 
+📝 Owner and writer in [lazycatlabs.com](https://lazycatlabs.com)
+
 💻 I specialize in creating robust and user-friendly mobile applications. My journey involves leading mobile teams and consistently delivering high-quality projects.
 
 🌱 Currently exploring 🦀 Rust to stay on the cutting edge of technology.
+
+🛝 You can visit my playground [here](https://github.com/lazycatlabs)
 
 🔗 Let's connect and discuss the exciting possibilities in mobile development!
 
