@@ -1,3 +1,8 @@
+<a href="https://s.id/standwithpalestine">
+  <img alt="We stand with Palestine" src="https://cdn.jsdelivr.net/gh/Safouene1/support-palestine-banner@master/banner-project.svg" width="100%" />
+</a>
+<br/><br/>
+
 <a href="https://lazycatlabs.com/" target="_blank">
 <img 
   src="https://github-production-user-asset-6210df.s3.amazonaws.com/1531684/281783264-5b2e172d-feb8-40de-9846-a70379b758fb.png" 
