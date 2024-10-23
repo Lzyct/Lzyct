@@ -5,7 +5,7 @@
 
 <a href="https://lazycatlabs.com/" target="_blank">
 <img 
-  src="https://github-production-user-asset-6210df.s3.amazonaws.com/1531684/281783264-5b2e172d-feb8-40de-9846-a70379b758fb.png" 
+  src="https://github.com/lazycatlabs/blog.lazycatlabs.com-giscus/blob/main/lazycatlabs/new_logo_square_transparent.png" 
   style="margin-top:20px;margin-right:13px;margin-bottom:20px"
   align="left" 
   height="320px"
