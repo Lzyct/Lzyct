@@ -47,7 +47,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C008%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C011%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -63,60 +63,20 @@
  > 
 > 🔑 44 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1192 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-🌆 Daytime                2389 commits        ████████░░░░░░░░░░░░░░░░░   30.71 % 
-🌃 Evening                3479 commits        ███████████░░░░░░░░░░░░░░   44.72 % 
-🌙 Night                  720 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1412 commits        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Tuesday                  1177 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Wednesday                1078 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Thursday                 1064 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Friday                   923 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Saturday                 1000 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Sunday                   1126 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Makassar
-
-💬 Programming Languages: 
-Dart                     6 hrs 28 mins       █████████████░░░░░░░░░░░░   52.27 % 
-Markdown                 1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-YAML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-JSON                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-
-🔥 Editors: 
-IntelliJ IDEA            12 hrs 22 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      12 hrs 22 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     41 repos            ██████████░░░░░░░░░░░░░░░   38.68 % 
-Kotlin                   23 repos            █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-Rust                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-C++                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Dart                     41 repos            ██████████░░░░░░░░░░░░░░░   39.05 % 
+Kotlin                   23 repos            █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+Rust                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 
 
 
 
- Last Updated on 03/05/2026 19:39:16 UTC
+ Last Updated on 04/05/2026 20:09:54 UTC
 <!--END_SECTION:waka-->
 
 
