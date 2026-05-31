@@ -5,7 +5,7 @@
 
 <a href="https://lazycatlabs.com/" target="_blank">
 <img 
-  src="https://github.com/lazycatlabs/blog.lazycatlabs.com-giscus/blob/main/lazycatlabs/new_logo_light.png" 
+  src="https://github.com/user-attachments/assets/a0387605-4ef7-42a6-8905-a58e729f5f45" 
   style="margin-top:20px;margin-right:13px;margin-bottom:20px"
   align="left" 
   height="320px"
@@ -17,7 +17,7 @@
 
 🚀 Mobile Developer | 5+ years of experience in Android Native and Flutter.
 
-📝 Owner and writer in [lazycatlabs.com](https://lazycatlabs.com)
+📝 Owner and writer in [lazycatlabs.com/blog](https://lazycatlabs.com/blog)
 
 💻 I specialize in creating robust and user-friendly mobile applications. My journey involves leading mobile teams and consistently delivering high-quality projects.
 
