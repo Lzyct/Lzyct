@@ -47,7 +47,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C213%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C217%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -68,15 +68,15 @@
 ```text
 🌞 Morning                1144 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
 🌆 Daytime                2353 commits        ████████░░░░░░░░░░░░░░░░░   31.31 % 
-🌃 Evening                3342 commits        ███████████░░░░░░░░░░░░░░   44.48 % 
+🌃 Evening                3343 commits        ███████████░░░░░░░░░░░░░░   44.48 % 
 🌙 Night                  675 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1362 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Monday                   1362 commits        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
 Tuesday                  1107 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Wednesday                1032 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Wednesday                1033 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
 Thursday                 1032 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 Friday                   916 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
 Saturday                 970 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
@@ -90,18 +90,18 @@ Sunday                   1095 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Dart                     14 hrs 14 mins      ███████████████░░░░░░░░░░   58.24 % 
-Markdown                 2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-YAML                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Rust                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Dart                     16 hrs              ███████████████░░░░░░░░░░   61.18 % 
+Markdown                 2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+YAML                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Rust                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 🔥 Editors: 
-IntelliJ IDEA            20 hrs 12 mins      █████████████████████░░░░   82.62 % 
-VS Code                  4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+IntelliJ IDEA            22 hrs 5 mins       █████████████████████░░░░   84.40 % 
+VS Code                  4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
 
 💻 Operating System: 
-Mac                      24 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -117,7 +117,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2026 20:33:26 UTC
+ Last Updated on 08/07/2026 20:11:10 UTC
 <!--END_SECTION:waka-->
 
 
