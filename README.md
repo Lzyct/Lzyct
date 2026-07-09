@@ -90,18 +90,18 @@ Sunday                   1095 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Dart                     16 hrs              ███████████████░░░░░░░░░░   61.18 % 
-Markdown                 2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-YAML                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Rust                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Dart                     13 hrs 26 mins      ████████████████░░░░░░░░░   65.37 % 
+Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+YAML                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Rust                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-IntelliJ IDEA            22 hrs 5 mins       █████████████████████░░░░   84.40 % 
-VS Code                  4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+IntelliJ IDEA            17 hrs 50 mins      ██████████████████████░░░   86.78 % 
+VS Code                  2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 
 💻 Operating System: 
-Mac                      26 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -117,7 +117,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2026 20:11:10 UTC
+ Last Updated on 09/07/2026 20:26:28 UTC
 <!--END_SECTION:waka-->
 
 
