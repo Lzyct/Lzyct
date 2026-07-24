@@ -47,8 +47,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C250%20hrs%2012%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -63,47 +61,6 @@
  > 
 > 🔑 44 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1200 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-🌆 Daytime                2444 commits        ████████░░░░░░░░░░░░░░░░░   30.94 % 
-🌃 Evening                3545 commits        ███████████░░░░░░░░░░░░░░   44.87 % 
-🌙 Night                  711 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1410 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Tuesday                  1165 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Wednesday                1084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Thursday                 1082 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Friday                   970 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Saturday                 1030 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Sunday                   1159 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Makassar
-
-💬 Programming Languages: 
-Dart                     8 hrs 18 mins       ███████████░░░░░░░░░░░░░░   43.47 % 
-HTML                     2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-JSON                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-YAML                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-
-🔥 Editors: 
-IntelliJ IDEA            14 hrs 53 mins      ███████████████████░░░░░░   77.94 % 
-VS Code                  4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-
-💻 Operating System: 
-Mac                      19 hrs 5 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -117,7 +74,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 20:02:11 UTC
+ Last Updated on 24/07/2026 20:03:15 UTC
 <!--END_SECTION:waka-->
 
 
