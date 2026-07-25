@@ -47,13 +47,15 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C253%20hrs%201%20min-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 360.5 kB Used in GitHub's Storage 
+> 📦 360.6 kB Used in GitHub's Storage 
  > 
-> 🏆 266 Contributions in the Year 2026
+> 🏆 277 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -61,6 +63,47 @@
  > 
 > 🔑 44 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1206 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+🌆 Daytime                2448 commits        ████████░░░░░░░░░░░░░░░░░   30.91 % 
+🌃 Evening                3556 commits        ███████████░░░░░░░░░░░░░░   44.89 % 
+🌙 Night                  711 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1411 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Tuesday                  1165 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Wednesday                1085 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Thursday                 1084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Friday                   970 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Saturday                 1045 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Sunday                   1161 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Makassar
+
+💬 Programming Languages: 
+Dart                     6 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.91 % 
+JSON                     2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+HTML                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+TypeScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+
+🔥 Editors: 
+IntelliJ IDEA            12 hrs 37 mins      ███████████████████░░░░░░   76.49 % 
+VS Code                  3 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+
+💻 Operating System: 
+Mac                      16 hrs 30 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -74,7 +117,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 20:03:15 UTC
+ Last Updated on 25/07/2026 19:50:14 UTC
 <!--END_SECTION:waka-->
 
 
