@@ -47,9 +47,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C397%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C401%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-194%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,7 +57,7 @@
 
 > 📦 360.5 kB Used in GitHub's Storage 
  > 
-> 🏆 402 Contributions in the Year 2026
+> 🏆 403 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -69,17 +69,17 @@
 
 ```text
 🌞 Morning                1204 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-🌆 Daytime                2426 commits        ████████░░░░░░░░░░░░░░░░░   30.99 % 
-🌃 Evening                3499 commits        ███████████░░░░░░░░░░░░░░   44.69 % 
+🌆 Daytime                2426 commits        ████████░░░░░░░░░░░░░░░░░   30.98 % 
+🌃 Evening                3500 commits        ███████████░░░░░░░░░░░░░░   44.70 % 
 🌙 Night                  700 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1386 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Monday                   1387 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
 Tuesday                  1166 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
 Wednesday                1092 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Thursday                 1084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Thursday                 1084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
 Friday                   966 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 Saturday                 1016 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
 Sunday                   1119 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
@@ -92,43 +92,43 @@ Sunday                   1119 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Dart                     11 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   37.44 % 
-YAML                     3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Markdown                 3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-TypeScript               3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Swift                    1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Dart                     9 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.47 % 
+TypeScript               2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Markdown                 2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+YAML                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+JSON                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🔥 Editors: 
-IntelliJ IDEA            21 hrs 37 mins      █████████████████░░░░░░░░   67.69 % 
-Claude Code              6 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-Codex Vscode             4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+IntelliJ IDEA            19 hrs 23 mins      █████████████████░░░░░░░░   68.33 % 
+Claude Code              5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Codex Vscode             3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
 
 💻 Operating System: 
-Mac                      31 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 43 mins (52.36%)
+⏱ AI Coding Time: 14 hrs 17 mins (50.35%)
 
-✍️ 8,986 lines written by AI, 1,447 lines written by hand (86.13% AI-written)
+✍️ 8,262 lines written by AI, 936 lines written by hand (89.82% AI-written)
 
-🔤 11,784,211 Input Tokens, 1,133,059 Output Tokens
+🔤 10,217,324 Input Tokens, 916,838 Output Tokens
 
-💵 $226.45 Estimated AI Cost This Week
+💵 $166.97 Estimated AI Cost This Week
 
-🧠 86 AI Sessions, 310 AI Prompts
+🧠 79 AI Sessions, 269 AI Prompts
 
-GPT                      8,160 lines         █████████████████████░░░░   85.71 % 
-Opus                     1,338 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Codex-Vscode             23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+GPT                      7,413 lines         █████████████████████░░░░   84.49 % 
+Opus                     1,338 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Codex-Vscode             23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.13% of written lines came from AI
-📚 Verbose Prompter — average 12,178 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 22.0% of changed lines were hand-edited
+🤖 AI-Driven — 89.82% of written lines came from AI
+📚 Verbose Prompter — average 13,290 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 19.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -144,7 +144,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 21:21:16 UTC
+ Last Updated on 04/09/2026 21:03:42 UTC
 <!--END_SECTION:waka-->
 
 
