@@ -47,9 +47,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C401%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C402%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-194%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,59 +92,60 @@ Sunday                   1119 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Dart                     9 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.47 % 
-TypeScript               2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Markdown                 2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-YAML                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-JSON                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Dart                     8 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.31 % 
+TypeScript               2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Markdown                 2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+YAML                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Rust                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 🔥 Editors: 
-IntelliJ IDEA            19 hrs 23 mins      █████████████████░░░░░░░░   68.33 % 
-Claude Code              5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Codex Vscode             3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+IntelliJ IDEA            17 hrs 39 mins      ██████████████████░░░░░░░   73.31 % 
+Codex Vscode             3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Claude Code              2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Antigravity Desktop      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 Operating System: 
-Mac                      28 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 17 mins (50.35%)
+⏱ AI Coding Time: 11 hrs 11 mins (46.44%)
 
-✍️ 8,262 lines written by AI, 936 lines written by hand (89.82% AI-written)
+✍️ 7,492 lines written by AI, 328 lines written by hand (95.81% AI-written)
 
-🔤 10,217,324 Input Tokens, 916,838 Output Tokens
+🔤 7,151,932 Input Tokens, 642,728 Output Tokens
 
-💵 $166.97 Estimated AI Cost This Week
+💵 $112.26 Estimated AI Cost This Week
 
-🧠 79 AI Sessions, 269 AI Prompts
+🧠 66 AI Sessions, 232 AI Prompts
 
-GPT                      7,413 lines         █████████████████████░░░░   84.49 % 
-Opus                     1,338 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Codex-Vscode             23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+GPT                      7,192 lines         ██████████████████████░░░   89.86 % 
+Opus                     812 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.82% of written lines came from AI
-📚 Verbose Prompter — average 13,290 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 19.66% of changed lines were hand-edited
+🤖 AI-Driven — 95.81% of written lines came from AI
+📚 Verbose Prompter — average 13,356 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 11.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     41 repos            █████████░░░░░░░░░░░░░░░░   36.94 % 
-Rust                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Blade                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Dart                     40 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
+Rust                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Blade                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 
 
 
 
- Last Updated on 04/09/2026 21:03:42 UTC
+ Last Updated on 05/09/2026 20:40:26 UTC
 <!--END_SECTION:waka-->
 
 
