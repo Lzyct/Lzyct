@@ -92,45 +92,45 @@ Sunday                   1320 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Markdown                 5 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-TypeScript               4 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Dart                     2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-YAML                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Other                    1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Markdown                 4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+TypeScript               4 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Dart                     2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Other                    1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+YAML                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 
 🔥 Editors: 
-IntelliJ IDEA            10 hrs 38 mins      █████████████░░░░░░░░░░░░   50.61 % 
-Claude Code              4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-Antigravity Desktop      3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Codex Vscode             2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+IntelliJ IDEA            10 hrs 20 mins      █████████████░░░░░░░░░░░░   52.27 % 
+Claude Code              3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Antigravity Desktop      3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Codex Vscode             2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
 
 💻 Operating System: 
-Mac                      21 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      19 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 28 mins (68.81%)
+⏱ AI Coding Time: 13 hrs 13 mins (66.85%)
 
-✍️ 1,324 lines written by AI, 574 lines written by hand (69.76% AI-written)
+✍️ 1,236 lines written by AI, 574 lines written by hand (68.29% AI-written)
 
-🔤 6,396,832 Input Tokens, 524,881 Output Tokens
+🔤 5,377,456 Input Tokens, 445,062 Output Tokens
 
-💵 $100.96 Estimated AI Cost This Week
+💵 $78.88 Estimated AI Cost This Week
 
-🧠 65 AI Sessions, 223 AI Prompts
+🧠 60 AI Sessions, 209 AI Prompts
 
-GPT                      1,461 lines         ███████████████████████░░   93.71 % 
-Opus                     58 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Fable                    40 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+GPT                      1,373 lines         ███████████████████████░░   93.34 % 
+Opus                     58 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Fable                    40 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.76% of written lines came from AI
-📚 Verbose Prompter — average 11,792 characters per prompt
+🤖 AI-Driven — 68.29% of written lines came from AI
+📚 Verbose Prompter — average 11,333 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 42.26% of changed lines were hand-edited
+🚀 High AI Trust — 43.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -146,7 +146,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 22:02:54 UTC
+ Last Updated on 15/09/2026 21:43:36 UTC
 <!--END_SECTION:waka-->
 
 
