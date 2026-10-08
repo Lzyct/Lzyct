@@ -57,7 +57,7 @@
 
 > 📦 364.2 kB Used in GitHub's Storage 
  > 
-> 🏆 511 Contributions in the Year 2026
+> 🏆 512 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,7 +70,7 @@
 ```text
 🌞 Morning                1364 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
 🌆 Daytime                2660 commits        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-🌃 Evening                4215 commits        ███████████░░░░░░░░░░░░░░   45.70 % 
+🌃 Evening                4216 commits        ███████████░░░░░░░░░░░░░░   45.71 % 
 🌙 Night                  984 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -78,11 +78,11 @@
 ```text
 Monday                   1640 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
 Tuesday                  1296 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Wednesday                1241 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Thursday                 1282 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Wednesday                1241 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Thursday                 1283 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
 Friday                   1091 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Saturday                 1241 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Sunday                   1432 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Saturday                 1241 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Sunday                   1432 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 ```
 
 
@@ -92,34 +92,34 @@ Sunday                   1432 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Dart                     10 hrs 52 mins      ████████████░░░░░░░░░░░░░   49.53 % 
-Other                    2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-YAML                     2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Swift                    2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-TypeScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Dart                     10 hrs 36 mins      █████████████░░░░░░░░░░░░   50.20 % 
+Other                    2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Swift                    2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+YAML                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+TypeScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 19 mins      █████████████░░░░░░░░░░░░   51.56 % 
-IntelliJ IDEA            10 hrs 34 mins      ████████████░░░░░░░░░░░░░   48.13 % 
-Hermes                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Claude Code              11 hrs 2 mins       █████████████░░░░░░░░░░░░   52.23 % 
+IntelliJ IDEA            10 hrs 1 min        ████████████░░░░░░░░░░░░░   47.45 % 
+Hermes                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      21 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 37 mins (62.04%)
+⏱ AI Coding Time: 13 hrs 12 mins (62.55%)
 
 ✍️ 22,529 lines written by AI, 647 lines written by hand (97.21% AI-written)
 
-🔤 8,211,010 Input Tokens, 1,305,884 Output Tokens
+🔤 7,925,075 Input Tokens, 1,283,539 Output Tokens
 
-💵 $129.72 Estimated AI Cost This Week
+💵 $126.75 Estimated AI Cost This Week
 
-🧠 62 AI Sessions, 136 AI Prompts
+🧠 54 AI Sessions, 128 AI Prompts
 
 Opus                     22,713 lines        █████████████████████████   99.72 % 
 GPT                      64 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
@@ -128,7 +128,7 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.21% of written lines came from AI
-📄 Detailed Prompter — average 1,233 characters per prompt
+📄 Detailed Prompter — average 1,161 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 5.07% of changed lines were hand-edited
 ```
@@ -146,7 +146,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 23:19:37 UTC
+ Last Updated on 08/10/2026 23:35:35 UTC
 <!--END_SECTION:waka-->
 
 
